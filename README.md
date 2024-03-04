@@ -1,6 +1,11 @@
 # deploy_demo_app
 
-A new Flutter project.
+플레이스토어 출시 어플리케이션
+
+차후 업데이트 및 기능 추가 예정
+
+현재는 하단과 전체화면에 ADs 만 임시로 추가되어있음
+
 
 ## Getting Started
 
