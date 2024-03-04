@@ -69,7 +69,7 @@ class _HomePageState extends State<HomePage> {
     myBanner.load();
 
     InterstitialAd.load(
-      adUnitId: Platform.isAndroid
+      adUnitId: Platform.isAndroid //하단의 광고 아이디는 임시로 적용된건이므로 나중에 바꿔야함
           ? 'ca-app-pub-3940256099942544/1033173712'
           : 'ca-app-pub-3940256099942544/4411468910',
       request: AdRequest(),
